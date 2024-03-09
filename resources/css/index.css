@@ -1,0 +1,34 @@
+
+body{
+    overflow: scroll;
+}
+nav li {
+   
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: inline-block;
+    padding: 40px;
+    width:80px;
+  
+    
+}
+nav {
+   
+    position: sticky;
+    margin: 0;
+    padding: 20px 0;
+  }
+
+  header {
+   
+    width: 100%;
+    background-color: #1c8bc2;
+    background-image: url("../images/299296942_465141135618192_7810845412571322369_n.jpg");
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+
+    text-align: center;
+  
+  }
